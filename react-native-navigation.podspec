@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
 
   s.module_name  = 'ReactNativeNavigation'
 
-  s.source       = { :git => "https://github.com/wix/react-native-navigation.git", :branch => "master" }
+  s.source       = { :git => "https://github.com/jamiltz/react-native-navigation.git", :branch => "master" }
   s.source_files  = "ios/**/*.{h,m}"
   s.header_mappings_dir = 'ios'
   s.public_header_files = "ios/*.h"
